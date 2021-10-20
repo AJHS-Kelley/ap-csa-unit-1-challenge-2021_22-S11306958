@@ -7,6 +7,9 @@ public class DamageDealt {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("How many attacks would you like to make?");
         System.out.println(" ");
+        int amountOfAttacksMade = myScanner.nextLine();
+        System.out.println("How much damage will each attack do?");
+        double damagePerAttack = myScanner.nextLine();
 
     }
 }
