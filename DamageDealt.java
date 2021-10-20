@@ -16,7 +16,6 @@ public class DamageDealt {
 
         System.out.println("What Enemy are you attacking?");
         String enemyType = myScanner.nextLine();
-
         double damageDealt = amountOfAttacksMade * damagePerAttack;
         double dps = damageDealt / 4;
         System.out.println("You dealt " + damageDealt + " to the " + enemyType + " with your " + weaponType
