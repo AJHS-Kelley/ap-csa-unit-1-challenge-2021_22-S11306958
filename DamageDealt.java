@@ -1,4 +1,4 @@
-// <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <8:23>, v2.0
+// <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <8:23>, v2.5
 
 import java.util.Scanner;
 
@@ -14,5 +14,7 @@ public class DamageDealt {
         String weaponType = myScanner.nextLine();
         System.out.println("What Enemy are you attacking?");
         String enemyType = myScanner.nextLine();
+        double damageDealt = (double) amountOfAttacksMade * damagePerAttack;
+
     }
 }
