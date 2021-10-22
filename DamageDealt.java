@@ -1,11 +1,6 @@
-<<<<<<< Updated upstream
-// <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <9:33>, v4.0
-// Peer Debugging by Lorenzo
-=======
 
 // <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <9:33>, v4.0
 //Peer debugging by Randy K.
->>>>>>> Stashed changes
 import java.util.Scanner;
 
 public class DamageDealt {
@@ -20,7 +15,7 @@ public class DamageDealt {
         System.out.println("How much damage will each attack do?");
         double damagePerAttack = myScanner.nextDouble();
         System.out.println(" ");
-        System.out.println("What enemy are you attacking?");
+        System.out.print("What enemy are you attacking?");
         String enemyType = myScanner.nextLine();
         System.out.println(" ");
         double damageDealt = amountOfAttacksMade * damagePerAttack;
