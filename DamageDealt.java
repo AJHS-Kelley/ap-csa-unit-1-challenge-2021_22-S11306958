@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 // <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <9:33>, v4.0
 // Peer Debugging by Lorenzo
+=======
+
+// <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <9:33>, v4.0
+//Peer debugging by Randy K.
+>>>>>>> Stashed changes
 import java.util.Scanner;
 
 public class DamageDealt {
