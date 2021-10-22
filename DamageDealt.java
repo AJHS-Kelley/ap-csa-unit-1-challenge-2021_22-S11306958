@@ -1,6 +1,6 @@
 
 // <David Kaneer>, AP CSA Unit 1 Challenge, Andrew Jackson High School, <10/20/2021>, <9:33>, v4.0
-//Peer debugging by Randy K.
+//Peer debugging by Lorenzo
 import java.util.Scanner;
 
 public class DamageDealt {
